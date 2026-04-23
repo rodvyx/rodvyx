@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Rodrick 👋
 
-<!--
-**rodvyx/rodvyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Graduate  
+💻 Full-Stack Developer (JavaScript)  
+🌍 Based in Ukraine | Open to remote roles  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m building real-world web applications using JavaScript, TypeScript, React, and Node.js, with a focus on becoming job-ready as quickly as possible.
+
+---
+
+## 🛠️ Tech Stack
+- JavaScript (ES6+)
+- TypeScript
+- HTML & CSS
+- React 
+- Node.js 
+- Git & GitHub
+
+---
+
+## 📂 Projects
+Projects coming soon...
+
+---
+
+## 📫 Contact
+- Email: rodrickrob11@gmail.com
