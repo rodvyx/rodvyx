@@ -1,35 +1,41 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rodvyx/rodvyx/main/banner.png" />
-</p>
-
-<br/>
-
 # 👋 Hi, I'm Rodrick
 
-### 💻 Full-Stack JavaScript Developer (React, Node.js)
-### 🌍 Based in Ukraine | Open to remote opportunities
+### Full-Stack JavaScript Developer (React, Node.js)
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real-World+Web+Applications;React+%7C+Node.js+%7C+Full-Stack;Clean+Architecture+%26+Scalable+Systems&color=38bdf8&size=24">
+</p>
+
+I build scalable, real-world web applications with clean UI, strong backend logic, and production-ready architecture.
+
+🚀 Creator of **Tradestein** — a live trading journal & analytics platform used by active traders.
+
+🌍 Based in Ukraine | Open to remote opportunities  
 
 ---
 
 ## 🚀 What I Do
 
-I build scalable, real-world web applications with clean UI, strong backend logic, and production-ready architecture.
-
-Focused on delivering applications that are not just functional — but reliable, performant, and user-focused.
+- Build full-stack applications from frontend to backend  
+- Design clean, user-focused interfaces  
+- Develop scalable backend systems and APIs  
+- Turn ideas into real, usable products  
 
 ---
 
-## 🧠 Highlight
+## 🧠 Featured Work
 
-🚀 Creator of **Tradestein**  
-A live trading journal & analytics platform used by active traders.
-
-Built with a full SaaS-style architecture including:
-- Authentication & user systems
-- Data-driven dashboards
-- Trade analytics & performance tracking
-
+### 🟢 Tradestein  
+Trading journal & analytics platform  
+→ Real-world SaaS-style application  
 🔗 https://app.tradestein.world  
+
+---
+
+### 🟡 RecipeHub  
+Recipe discovery & upload application  
+→ JavaScript MVC architecture + REST API  
+🔗 https://recipe-app-portfolio.vercel.app  
 
 ---
 
@@ -41,21 +47,9 @@ Built with a full SaaS-style architecture including:
 
 ---
 
-## 📂 Selected Projects
-
-### 🟢 Tradestein  
-Trading journal & analytics platform  
-→ Real-world SaaS product  
-
-### 🟡 RecipeHub  
-Recipe discovery & upload application  
-→ Full JavaScript MVC architecture + API integration  
-
----
-
 ## 🎯 Current Focus
 
-- Building full-stack production-level applications  
+- Building production-level full-stack applications  
 - Improving backend architecture & scalability  
 - Preparing for junior full-stack developer roles  
 
@@ -66,3 +60,7 @@ Recipe discovery & upload application
 - 📧 rodrickrob11@gmail.com  
 - 🔗 https://www.linkedin.com/in/rodrick-d-06781323b  
 - 💻 https://github.com/rodvyx  
+
+---
+
+⭐ Always building. Always improving.
