@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodvyx/rodvyx/main/banner.png" />
+</p>
+
+<br/>
+
 # 👋 Hi, I'm Rodrick
 
 ### 💻 Full-Stack JavaScript Developer (React, Node.js)
