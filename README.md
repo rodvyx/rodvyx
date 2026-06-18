@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rodrick
+#  Hi, I'm Rodrick
 
 ### Full-Stack JavaScript Developer (React, Node.js)
 
@@ -8,16 +8,16 @@
 
 I build scalable, real-world web applications with clean UI, strong backend systems, and production-ready architecture.
 
-🚀 Creator of **Tradestein** — a live trading journal platform used by real traders  
-🌍 Based in Ukraine | Open to remote opportunities  
+ Creator of **Tradestein** — a live trading journal platform used by real traders  
+ Based in Ukraine | Open to remote opportunities  
 
 ---
 
-# 🚀 Featured Work
+#  Featured Work
 
 ---
 
-## 🟢 Tradestein — Trading Journal & Analytics Platform
+##  Tradestein — Trading Journal & Analytics Platform
 
 <p align="center">
   <a href="https://app.tradestein.world" target="_blank">
@@ -25,22 +25,22 @@ I build scalable, real-world web applications with clean UI, strong backend syst
   </a>
 </p>
 
-### 📌 Overview
+###  Overview
 Tradestein is a real-world SaaS-style trading journal designed to help traders track performance, analyze behavior, and improve consistency through data.
 
-### ⚡ Problem
+###  Problem
 Most traders fail not because of strategy, but due to lack of structured tracking and behavioral insights.
 
-### 💡 Solution
+###  Solution
 Built a full-stack application that allows users to:
 - Log and review trades in a structured workflow  
 - Visualize performance with analytics dashboards  
 - Track behavioral patterns and consistency  
 
-### 🧠 Tech Stack
+###  Tech Stack
 `React` `Vite` `Supabase` `JavaScript` `PWA`
 
-### 🚀 Highlights
+###  Highlights
 - Authentication & secure user data handling  
 - Real-time dashboard with performance metrics  
 - Designed with scalability for future subscription model  
@@ -57,7 +57,7 @@ Built a full-stack application that allows users to:
 
 ---
 
-## 🟡 RecipeHub — Recipe Discovery & Upload App
+##  RecipeHub — Recipe Discovery & Upload App
 
 <p align="center">
   <a href="https://recipe-app-portfolio.vercel.app" target="_blank">
@@ -65,22 +65,22 @@ Built a full-stack application that allows users to:
   </a>
 </p>
 
-### 📌 Overview
+###  Overview
 RecipeHub is a modern JavaScript application focused on clean architecture and interactive user experience.
 
-### ⚡ Problem
+###  Problem
 Most recipe apps lack flexibility for user interaction and personalization.
 
-### 💡 Solution
+###  Solution
 Built a structured MVC-based application that allows users to:
 - Search and explore recipes  
 - Upload custom recipes  
 - Bookmark favorites and track recent views  
 
-### 🧠 Tech Stack
+###  Tech Stack
 `JavaScript` `MVC Architecture` `Parcel` `Sass` `REST API`
 
-### 🚀 Highlights
+###  Highlights
 - Clean separation of concerns (MVC pattern)  
 - Persistent state using localStorage  
 - Responsive and modern UI  
@@ -97,7 +97,7 @@ Built a structured MVC-based application that allows users to:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,supabase,html,css,git,github,vite" />
@@ -105,7 +105,7 @@ Built a structured MVC-based application that allows users to:
 
 ---
 
-# 🎯 What I Focus On
+#  What I Focus On
 
 - Building full-stack applications from frontend to backend  
 - Writing clean, scalable, maintainable code  
@@ -114,7 +114,7 @@ Built a structured MVC-based application that allows users to:
 
 ---
 
-# 📫 Contact
+#  Contact
 
 <p>
   <a href="mailto:rodrickrob11@gmail.com">
@@ -130,4 +130,4 @@ Built a structured MVC-based application that allows users to:
 
 ---
 
-⭐ Always building. Always improving.
+ Always building. Always improving.
