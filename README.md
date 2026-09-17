@@ -1,4 +1,4 @@
-<h1 align="center">Rodrick</h1>
+<h1 align="center">Beverley Rodrick Dick</h1>
 
 <p align="center">
   Software developer building practical mobile and web products.
