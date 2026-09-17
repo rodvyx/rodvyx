@@ -1,133 +1,65 @@
-#  Hi, I'm Rodrick
+Rodrick
 
-### Full-Stack JavaScript Developer (React, Node.js)
+Software developer and creator of Tradestein, an iOS trading journal designed to help traders understand their performance, strengthen their discipline, and make better trading decisions.
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+Full-Stack;Clean+Architecture+%26+Real-World+Products&color=38bdf8&size=24">
-</p>
+I build practical mobile and web products using JavaScript, TypeScript, React, React Native, and Supabase.
 
-I build scalable, real-world web applications with clean UI, strong backend systems, and production-ready architecture.
+Featured project
 
- Creator of **Tradestein** — a live trading journal platform used by real traders  
- Based in Ukraine | Open to remote opportunities  
+Tradestein
 
----
-
-#  Featured Work
-
----
-
-##  Tradestein — Trading Journal & Analytics Platform
+Tradestein brings structured trade journaling, performance analytics, discipline tracking, and personalized coaching together in one mobile application.
 
 <p align="center">
-  <a href="https://app.tradestein.world" target="_blank">
-    <img src="https://raw.githubusercontent.com/rodvyx/rodrick-portfolio/main/public/projects/tradestein-main.png" width="500" style="border-radius: 14px;" />
+  <a href="https://apps.apple.com/ua/app/tradestein/id6798802936">
+    <img src="./assets/Dashboard.1.png" width="430" alt="Tradestein mobile trading journal dashboard" />
   </a>
 </p>
 
-###  Overview
-Tradestein is a real-world SaaS-style trading journal designed to help traders track performance, analyze behavior, and improve consistency through data.
+Key features
 
-###  Problem
-Most traders fail not because of strategy, but due to lack of structured tracking and behavioral insights.
+Structured trade journaling and detailed trade reviews
 
-###  Solution
-Built a full-stack application that allows users to:
-- Log and review trades in a structured workflow  
-- Visualize performance with analytics dashboards  
-- Track behavioral patterns and consistency  
+Performance, risk, and equity analytics
 
-###  Tech Stack
-`React` `Vite` `Supabase` `JavaScript` `PWA`
+Trading calendar and progress tracking
 
-###  Highlights
-- Authentication & secure user data handling  
-- Real-time dashboard with performance metrics  
-- Designed with scalability for future subscription model  
-- Built as a production-ready SaaS foundation  
+Discipline and trading-psychology scoring
 
-<p align="center">
-  <a href="https://app.tradestein.world">
-    <img src="https://img.shields.io/badge/Live_App-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/rodvyx/tradestein-lite">
-    <img src="https://img.shields.io/badge/Public_Demo_Code-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Strategy-aware AI coaching
 
----
+Secure authentication and cloud data storage
 
-##  RecipeHub — Recipe Discovery & Upload App
+Built with
 
-<p align="center">
-  <a href="https://recipe-app-portfolio.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/rodvyx/rodrick-portfolio/main/public/projects/recipehub-1.png" width="420" style="border-radius: 14px;" />
-  </a>
-</p>
+React Native · Expo · TypeScript · Supabase · PostgreSQL
 
-###  Overview
-RecipeHub is a modern JavaScript application focused on clean architecture and interactive user experience.
+Available on the App Store
 
-###  Problem
-Most recipe apps lack flexibility for user interaction and personalization.
+<a href="https://apps.apple.com/ua/app/tradestein/id6798802936">
+  <img src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download Tradestein on the App Store" />
+</a>
 
-###  Solution
-Built a structured MVC-based application that allows users to:
-- Search and explore recipes  
-- Upload custom recipes  
-- Bookmark favorites and track recent views  
+About me
 
-###  Tech Stack
-`JavaScript` `MVC Architecture` `Parcel` `Sass` `REST API`
+I hold a degree in Computer Engineering and enjoy turning product ideas into functional applications. My current work focuses on JavaScript, TypeScript, React, React Native, and backend services.
 
-###  Highlights
-- Clean separation of concerns (MVC pattern)  
-- Persistent state using localStorage  
-- Responsive and modern UI  
-- Full rebuild from an older project into production-ready code  
+I am open to frontend, React, React Native, and JavaScript development opportunities.
 
-<p align="center">
-  <a href="https://recipe-app-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/rodvyx/recipe-app">
-    <img src="https://img.shields.io/badge/Code-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Technical skills
 
----
+Languages: JavaScript, TypeScript, HTML, CSS
 
-#  Tech Stack
+Frontend and mobile: React, React Native, Expo
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,supabase,html,css,git,github,vite" />
-</p>
+Backend and data: Node.js, Supabase, PostgreSQL
 
----
+Tools: Git, GitHub, REST APIs
 
-#  What I Focus On
+Contact
 
-- Building full-stack applications from frontend to backend  
-- Writing clean, scalable, maintainable code  
-- Designing real-world, user-focused products  
-- Turning ideas into production-ready systems  
+LinkedIn
 
----
+Email
 
-#  Contact
-
-<p>
-  <a href="mailto:rodrickrob11@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/rodrick-d-06781323b">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/rodvyx">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
- Always building. Always improving.
+GitHub
